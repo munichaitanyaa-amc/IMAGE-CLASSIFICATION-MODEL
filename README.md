@@ -53,3 +53,14 @@ making it highly valuable in modern technology-driven industries.
 
 OUTPUT:
 
+<img width="1185" height="482" alt="Image" src="https://github.com/user-attachments/assets/a7aea748-fff3-4030-8f2e-ad772f04ad77" />
+<img width="1135" height="494" alt="Image" src="https://github.com/user-attachments/assets/64022b6f-909c-4c7f-971a-21a1247107ad" />
+<img width="1060" height="254" alt="Image" src="https://github.com/user-attachments/assets/071de9f5-8368-4ca8-a873-6ade758f27cd" />
+<img width="1048" height="419" alt="Image" src="https://github.com/user-attachments/assets/a840c13e-35d3-422a-b504-9f7bdfb36ea2" />
+<img width="1170" height="462" alt="Image" src="https://github.com/user-attachments/assets/f771f564-28ac-4734-8c39-356046e8fdaf" />
+<img width="1012" height="537" alt="Image" src="https://github.com/user-attachments/assets/76398cf4-2c06-43d1-9eb8-53f3b7c308b3" />
+
+<img width="3373" height="2963" alt="Image" src="https://github.com/user-attachments/assets/c4b3bce1-dc70-4fd6-becd-8e5518e00b61" />
+<img width="4327" height="2666" alt="Image" src="https://github.com/user-attachments/assets/a0f296c4-a82a-4746-8376-23bb8e5db011" />
+<img width="4164" height="1164" alt="Image" src="https://github.com/user-attachments/assets/8cb8296b-ed6b-4139-88ef-6df8f343bec1" />
+
